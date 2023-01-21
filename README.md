@@ -1,0 +1,1 @@
+The following R scripts represent the backend, frontend, and server scripts needed to launch a Shiny App. The final product can be viewed on https://nda-project-group-09.shinyapps.io/FUT-masters-22/
